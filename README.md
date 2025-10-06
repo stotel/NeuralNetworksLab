@@ -1,5 +1,8 @@
 # NeuralNetworksLab
-<<<<<<< HEAD
-# NeuralNetworksLab
-=======
->>>>>>> origin/main
+Група:
+
+ Орест Рублевський,
+ Юречко Андрій
+ 
+dataset:
+    https://universe.roboflow.com/object-detection-naauz/cow-buffalo
